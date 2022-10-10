@@ -20,7 +20,8 @@
         "drupal/core-project-message": "^9.4",
         "drupal/core-recommended": "^9.4",
         "drupal/tmgmt": "^1.14",
-        "drupal/tmgmt_ilangl": "^1.7"
+        "drupal/tmgmt_ilangl": "^1.7",
+        "drush/drush": "^11.2"
     },
     "conflict": {
         "drupal/drupal": "*"

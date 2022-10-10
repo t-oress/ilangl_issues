@@ -1,0 +1,16 @@
+uuid: 11dacf3b-5362-4ffb-8203-cb58249549cf
+langcode: en
+status: true
+dependencies:
+  module:
+    - tmgmt_ilangl
+name: ilangl
+label: iLangL
+description: 'The iLangL translator module that integrates with the Translation Management Tool.'
+auto_accept: null
+weight: null
+plugin: ilangl
+settings:
+  domain: ''
+  xliff_cdata: true
+remote_languages_mappings: {  }
