@@ -6,6 +6,14 @@ url:
   source: path_prefix
   prefixes:
     en: ''
+    de: de
+    fr: fr
+    it: it
+    uk: uk
   domains:
     en: ''
+    de: ''
+    fr: ''
+    it: ''
+    uk: ''
 selected_langcode: site_default

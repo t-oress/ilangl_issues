@@ -41,12 +41,14 @@ module:
   taxonomy: 0
   text: 0
   tmgmt: 0
+  tmgmt_content: 0
   tmgmt_file: 0
   tmgmt_ilangl: 0
   toolbar: 0
   tour: 0
   user: 0
   views_ui: 0
+  content_translation: 10
   views: 10
   standard: 1000
 theme:
