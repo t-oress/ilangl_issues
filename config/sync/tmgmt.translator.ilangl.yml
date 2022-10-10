@@ -7,10 +7,19 @@ dependencies:
 name: ilangl
 label: iLangL
 description: 'The iLangL translator module that integrates with the Translation Management Tool.'
-auto_accept: null
+auto_accept: false
 weight: null
 plugin: ilangl
 settings:
-  domain: ''
-  xliff_cdata: true
-remote_languages_mappings: {  }
+  domain: 'https://cptest.ilangl.com'
+  debug_mode: true
+  username: UserName
+  email: phpdrupald@gmail.com
+  service_id: 6ff06971-7373-4c65-846b-96839484325b
+  services: 6ff06971-7373-4c65-846b-96839484325b
+remote_languages_mappings:
+  en: en
+  de: de
+  fr: fr
+  it: it
+  uk: uk

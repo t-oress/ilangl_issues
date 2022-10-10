@@ -1,0 +1,42 @@
+provider_data:
+  ilangl:
+    form_data:
+      domain: 'https://cptest.ilangl.com'
+      username: UserName
+      email: phpdrupald@gmail.com
+      project_id: 6325a988-6210-455c-88e8-2343f39c6ebc
+      api_key: d352b4bb-a287-4932-82ff-5442a2fb3051
+      remote_languages:
+        -
+          Id: '2747'
+          Code: en
+          Name: English
+          Slug: null
+          Enabled: true
+        -
+          Id: '2748'
+          Code: de
+          Name: German
+          Slug: null
+          Enabled: true
+        -
+          Id: '2749'
+          Code: fr
+          Name: French
+          Slug: null
+          Enabled: true
+        -
+          Id: '2750'
+          Code: it
+          Name: Italian
+          Slug: null
+          Enabled: true
+        -
+          Id: '2751'
+          Code: uk
+          Name: Ukrainian
+          Slug: null
+          Enabled: true
+      services:
+        6ff06971-7373-4c65-846b-96839484325b: Traslation
+      service_id: 6ff06971-7373-4c65-846b-96839484325b
